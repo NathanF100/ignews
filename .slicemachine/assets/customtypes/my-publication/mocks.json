@@ -1,0 +1,21 @@
+{
+  "id": "07c54f97-1a1a-4acf-be53-7d6b83d996d6",
+  "uid": "necessitatibus-qui-sint",
+  "type": "my-publication",
+  "data": {
+    "Title": [
+      {
+        "type": "heading1",
+        "text": "Brand 24/7 eyeballs",
+        "spans": []
+      }
+    ],
+    "Content": [
+      {
+        "type": "paragraph",
+        "text": "Ut sint aute culpa minim sit laborum occaecat. Consequat occaecat dolore do irure labore eu pariatur non et ipsum. Fugiat nulla laboris labore reprehenderit cillum esse laborum voluptate sit deserunt.",
+        "spans": []
+      }
+    ]
+  }
+}
